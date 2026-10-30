@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+sentence-transformers
+pgvector
+pypdf
+python-dotenv
+python-jose
+passlib
+alembic
