@@ -1,0 +1,30 @@
+# Python environments
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Node dependencies
+node_modules/
+dist/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Database backups
+backups/
+*.dump
+*.sql
+
+# Uploaded documents
+backend/uploads/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
